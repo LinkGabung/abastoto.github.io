@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width,maximum-scale=1.0">
     <meta http-equiv="content-language" content="id">
     <title>ABASTOTO | Bandar Togel Online Terpercaya Dengan Layanan Bet Terbaik & Lengkap</title>
-    <link rel="amphtml" href="https://arakprediction.github.io" />
+    <link rel="amphtml" href="https://abastoto.github.io" />
     <meta name="description"
         content="ABASTOTO | Bandar Togel Online Terpercaya Dengan Layanan Bet Terbaik & Lengkap">
     <meta name="keywords"
@@ -18,20 +18,18 @@
         content="ABASTOTO | Bandar Togel Online Terpercaya Dengan Layanan Bet Terbaik & Lengkap.">
     <meta property="og:url" content="https://bio.site/LINKGABUNG">
     <meta property="og:site_name" content="SITUS REKOMENDASI"> 
-    <meta property="og:author" content="ARAK PREDICTION">
+    <meta property="og:author" content="ABASTOTO">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjFDcRXx2Dji5viotMZQ6i-P_HVLivo1KceEaeMOURcfHLHszVYq3Eg9H-aCOI3ftHC85ydY8k-L8li3upmbd-xqNmWh-F_IZeT4LPaDrnF6rsyfa9jNRrrIGrzb2Q7VPQ971QNTATFAzFALjOFRN0te6o_uViBwrFWv-BII6kvVKBtl-1TeDNhMglhTo/s1600/SYDNEY&amp;HK%20POOLS.jpg">
     <meta name="og:locale" content="ID_id">
     <meta name="og:type" content="website">
     <meta name="rating" content="general">
-    <meta name="author" content="ARAK PREDICTION">
+    <meta name="author" content="ABASTOTO">
     <meta name="distribution" content="global">
-    <meta name="publisher" content="ARAK PREDICTION">
+    <meta name="publisher" content="ABASTOTO">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLuwlB9_j77-5EkF9CeKeh15umzJS-0zO3FE_XMs6RAWbKZYyjVssmIp16-wUV_-V-Sp_40gKiiXiH_5kyGKxAgjUYpIwHyHbduoIBT0cvvzBH8Jv2bhezzrI_BSGZf56aceNUPtplbG1uLJaTy5jRpLvVVWkp3chfg0yTrNK5l23_-8FXQg2TIAR5gCA/s1600/favicon-16x16.png"
-        type="image/x-icon">
-    <link rel="canonical" href="https://Arakprediction.github.io">
+    <link rel="canonical" href="https://abastoto.github.io">
     <style amp-boilerplate>
         body {
             -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
